@@ -1,6 +1,6 @@
 <h2>NPM 201410042</h2>
 IBNU ALMUGNI AKBARUDIN</br>
-KELAS 1 A </br> 
-PRODI INFORMATIKA </br> 
-ALAMAT DESA BUNTU KECAMATAN LIGUNG KABUPATEN MAJALENGKA </br> 
-EMAIL ibnualmugniakbrudin@gmail.com </br> 
+KELAS  : 1 A </br> 
+PRODI  : INFORMATIKA </br> 
+ALAMAT : DESA BUNTU KECAMATAN LIGUNG KABUPATEN MAJALENGKA </br> 
+EMAIL  : ibnualmugniakbrudin@gmail.com </br> 
