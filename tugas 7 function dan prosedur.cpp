@@ -9,15 +9,9 @@ int total_detik();
 void tampil(){
 	cout<<"==========================================="<<endl;
 }
-int main(){
- int j,m,td,sm;
- tampil();
- 
- total_detik();
- total_jam();
- return 0;
- }
-tampil(){
+int main()
+{
+	tampil();
 	//tampil
 	cout <<"Nama  : Ibnu Almugni Akbarudin" << endl;
 	cout <<"NPM   : 20.14.1.0042"<< endl;
