@@ -1,11 +1,14 @@
 #include<iostream>
+#include <windows.h>
 using namespace std;
 //deklarasi function bisa menerima inputan 2 parameter
 int total_jam();
 int total_detik();
-//deklarasi prosedure bisa menerima inputan 1 parameter
-void tampil();
 
+//deklarasi prosedure bisa menerima inputan 1 parameter
+void tampil(){
+	cout<<"==========================================="<<endl;
+}
 int main(){
  int j,m,td,sm;
  tampil();
@@ -14,7 +17,7 @@ int main(){
  total_jam();
  return 0;
  }
-void tampil(){
+tampil(){
 	//tampil
 	cout <<"Nama  : Ibnu Almugni Akbarudin" << endl;
 	cout <<"NPM   : 20.14.1.0042"<< endl;
