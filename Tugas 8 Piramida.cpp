@@ -1,6 +1,4 @@
 #include <iostream>
-#include <windows.h>
-#include <conio.h>
 using namespace std;
 void tampil(){
 	cout<<"==========================================="<<endl;
@@ -12,9 +10,9 @@ void tampil(){
 	cout<<"Tugas : ke 8 membuat setengah segitiga bintang" << endl;
 	cout<<"Kelas : 1A "<<endl;
 tampil();	
-	int i,j;
-	for(i=1;i<=8;i++) {
-	for(j=1;j<=i;j++) {
+	int a,b;
+	for(a=1;b<=5;a++) {
+	for(b=1;b<=a;b++) {
     cout<<"*";
     }
     cout<<endl;
